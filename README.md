@@ -10,11 +10,11 @@ A public code repository for the UMIHS website. Unfortunately, it is still under
 - [X] Create firebase site
 - [X] Automatic deploys
 - [X] Basic HTML content
-- [] Basic CSS content and classes
-- [] Design plan
-- [] Implement design
-- [] Fill up the website with content using the design
-- [] Make website as scalable as possible
-- [] Polish website
-- [] Icons, logos, metadata and other stuff
+- [ ] Basic CSS content and classes
+- [ ] Design plan
+- [ ] Implement design
+- [ ] Fill up the website with content using the design
+- [ ] Make website as scalable as possible
+- [ ] Polish website
+- [ ] Icons, logos, metadata and other stuff
 ...To be extended
