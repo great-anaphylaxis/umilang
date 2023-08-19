@@ -1,0 +1,17 @@
+/* all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* css variables */
+:root {
+    --color-primary: maroon;
+    --color-secondary: white;
+}
+
+/* body and default body styles */
+body {
+    background-color: var(--color-secondary);
+    color: var(--color-primary);
+}
