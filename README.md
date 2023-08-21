@@ -2,7 +2,8 @@
 The repository for the UM Ilang High School website.
 
 ## About
-A public code repository for the UMIHS website. Unfortunately, it is still under development, but you can view the cuurent state of the website here: [UMIHS website](https://umilang.web.app/)
+A public code repository for the UMIHS website. Unfortunately, it is still under development, but you can view the curent state of the website here: [UMIHS website](https://umilang.web.app/)
+The design of the website here: [UMIHS desing](https://www.canva.com/design/DAFsJu49mhA/cNCAcoqBSSzAv0JhGz10OA/editutm_content=DAFsJu49mhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## To Do's
 - [X] Permission from a teacher in UM
