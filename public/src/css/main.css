@@ -39,7 +39,8 @@ body {
 /* slideshow */
 .slideshow {
     height: 80vh;
-    overflow: visible;
+    overflow: auto;
+    overflow-y: hidden;
     display: flex;
 }
 
